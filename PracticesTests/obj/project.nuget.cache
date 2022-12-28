@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVql99Z5jN5r0zRDW6TQ201DulWIVVYto/5nfyuyiBMXAhJT9n8fcvhJS8+lPdH221cqCd8ptv+NGN1ohpepRA==",
+  "success": true,
+  "projectFilePath": "D:\\SkillFactory\\16\\HomeWork\\PracticesTests\\PracticesTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maest\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\maest\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

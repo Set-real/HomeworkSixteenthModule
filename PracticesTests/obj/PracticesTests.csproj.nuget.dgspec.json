@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SkillFactory\\16\\HomeWork\\PracticesTests\\PracticesTests.csproj": {}
+  },
+  "projects": {
+    "D:\\SkillFactory\\16\\HomeWork\\PracticesTests\\PracticesTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SkillFactory\\16\\HomeWork\\PracticesTests\\PracticesTests.csproj",
+        "projectName": "PracticesTests",
+        "projectPath": "D:\\SkillFactory\\16\\HomeWork\\PracticesTests\\PracticesTests.csproj",
+        "packagesPath": "C:\\Users\\maest\\.nuget\\packages\\",
+        "outputPath": "D:\\SkillFactory\\16\\HomeWork\\PracticesTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\SkillFactory\\16\\HomeWork\\Practices\\Practices.csproj": {
+                "projectPath": "D:\\SkillFactory\\16\\HomeWork\\Practices\\Practices.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\SkillFactory\\16\\HomeWork\\Practices\\Practices.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\SkillFactory\\16\\HomeWork\\Practices\\Practices.csproj",
+        "projectName": "Practices",
+        "projectPath": "D:\\SkillFactory\\16\\HomeWork\\Practices\\Practices.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

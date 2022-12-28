@@ -1,0 +1,8 @@
+D:\SkillFactory\16\HomeWork\Practices\bin\Debug\Practices.exe.config
+D:\SkillFactory\16\HomeWork\Practices\bin\Debug\Practices.exe
+D:\SkillFactory\16\HomeWork\Practices\bin\Debug\Practices.pdb
+D:\SkillFactory\16\HomeWork\Practices\obj\Debug\Practices.csproj.AssemblyReference.cache
+D:\SkillFactory\16\HomeWork\Practices\obj\Debug\Practices.csproj.SuggestedBindingRedirects.cache
+D:\SkillFactory\16\HomeWork\Practices\obj\Debug\Practices.csproj.CoreCompileInputs.cache
+D:\SkillFactory\16\HomeWork\Practices\obj\Debug\Practices.exe
+D:\SkillFactory\16\HomeWork\Practices\obj\Debug\Practices.pdb
