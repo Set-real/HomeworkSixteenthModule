@@ -18,10 +18,21 @@ namespace PracticesTests
             Assert.AreEqual(80, calculator.Additional(50, 30));
         }
         [Test]
-        public void SubtractionlMustNotNullVallue() 
+        public void DivisionMastReturnNotZero() 
         { 
             var calculator = new Calculator();
-            Assert.That
+            Assert.NotZero(calculator.Division(4, 2));
+        }
+        [Test]
+        public void MiltiplicationMustNotReturnNullVallue () 
+        {
+            var calculator = new Calculator();
+            Assert.Null(calculator.Miltiplication(4, 2));
+        }
+        [Test] public void Subtraction()
+        {
+            var calculator = new Calculator();
+            Assert.AreSame(calculator, new Calculator());
         }
     }
 }
