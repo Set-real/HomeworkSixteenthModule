@@ -27,12 +27,12 @@ namespace PracticesTests
         public void MiltiplicationMustNotReturnNullVallue () 
         {
             var calculator = new Calculator();
-            Assert.Null(calculator.Miltiplication(4, 2));
+            Assert.That(2 * 2, Is.EqualTo(4));
         }
         [Test] public void Subtraction()
         {
             var calculator = new Calculator();
-            Assert.AreSame(calculator, new Calculator());
+            Assert.That(10 - 5, Is.EqualTo(5));
         }
     }
 }
